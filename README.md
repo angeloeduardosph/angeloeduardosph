@@ -13,4 +13,4 @@ Gosto de resolver problemas reais construindo aplicações completas, do banco d
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 
-📫 **Contato:(11) 978144138 [LinkedIn](www.linkedin.com/in/angelocampelo) · [E-mail](angeloeduardosph@gmail.com)
+📫 **Contato:(11) 978144138  [LinkedIn](www.linkedin.com/in/angelocampelo) · [E-mail](angeloeduardosph@gmail.com)
